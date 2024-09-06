@@ -15,7 +15,8 @@ public class Main {
         }
 
         //BubbleSort.bubbleSort(arr);
-        SelectionSort.selectionSort(arr);
+        //InsertionSort.insertionSort(arr);
+        //SelectionSort.selectionSort(arr);
         show(arr);
 
     }
